@@ -1,0 +1,50 @@
+Pizza
+Hamburger
+Hot Dog
+Pasta
+Spaghetti
+Lasagna
+Fried Chicken
+Grilled Cheese
+Tacos
+Burrito
+Quesadilla
+Nachos
+Steak
+Roast Beef
+Meatloaf
+Fish and Chips
+Sushi
+Tempura
+Ramen
+Udon
+Pho
+Pad Thai
+Spring Rolls
+Dim Sum
+Curry
+Naan
+Biryani
+Kebab
+Falafel
+Hummus
+Shawarma
+Gyro
+Paella
+Risotto
+Gnocchi
+Croissant
+Baguette
+Crepes
+Omelette
+Pancakes
+Waffles
+French Toast
+Chili
+Clam Chowder
+Tomato Soup
+Caesar Salad
+Cobb Salad
+Greek Salad
+Tuna Sandwich
+BLT Sandwich
